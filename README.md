@@ -3,7 +3,7 @@
     Flutter Music Player
 </h1>
 <p align="center">
-Music Player app made with Just audio library and Local database Hive. Find the free and Royelty music with Happy Rock application. The app contains information about singers and you can make your own playlist with Songs.Happy rock App's features are same as the real music app like spotify, amazon music etc.
+A beautiful Music Player App made with Just Audio Library and Local Database Hive. Find the free and Royalty music with Happy Rock application. The app contains information about singers and you can make your own playlist with songs. Happy rock App's features are same as the real music app like spotify, amazon music etc. Want more reasons to use it? It's completely Open-Source! (and FREE).
 
 </p>
 
